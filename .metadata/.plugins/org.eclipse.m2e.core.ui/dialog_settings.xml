@@ -46,9 +46,15 @@
 			<item value="com.telusko"/>
 		</list>
 		<list key="name">
+			<item value="SpringCore4"/>
+			<item value="SpringCore3"/>
+			<item value="SpringCore2"/>
 			<item value="SpringCore1"/>
 		</list>
 		<list key="artifactId">
+			<item value="SpringCore4"/>
+			<item value="SpringCore3"/>
+			<item value="SpringCore2"/>
 			<item value="SpringCore1"/>
 		</list>
 		<list key="projectNameTemplate">

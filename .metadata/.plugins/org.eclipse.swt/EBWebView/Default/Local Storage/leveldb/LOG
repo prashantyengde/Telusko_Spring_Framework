@@ -1,2 +1,3 @@
-2026/03/21-13:33:42.598 1254 Creating DB G:\STS_ALL_Projects\Spring_FrameWork\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb since it was missing.
-2026/03/21-13:33:42.977 1254 Reusing MANIFEST G:\STS_ALL_Projects\Spring_FrameWork\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/04-10:56:12.956 b374 Reusing MANIFEST G:\STS_ALL_Projects\Spring_FrameWork\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/04-10:56:12.985 b374 Recovering log #3
+2026/04/04-10:56:12.990 b374 Reusing old log G:\STS_ALL_Projects\Spring_FrameWork\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/000003.log 
